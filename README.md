@@ -1,0 +1,2 @@
+# Scrapy_SinaNews
+用scrapy爬取新浪滚动新闻内容并存入mysql
