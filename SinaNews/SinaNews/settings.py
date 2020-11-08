@@ -18,6 +18,8 @@ ITEM_PIPELINES = {
     'SinaNews.pipelines.SinanewsPipeline':1,
 }
 
+# LOG_LEVEL = "INFO"
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'SinaNews (+http://www.yourdomain.com)'
